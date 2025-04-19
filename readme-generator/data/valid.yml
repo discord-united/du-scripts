@@ -1,0 +1,17 @@
+repositories:
+- name: awesome-discord
+  id: 879513837
+  author: discord-united
+  source: https://github.com/discord-united/awesome-discord
+  description: 'Awesome Discord Bots: A curated collection of free, open-source Discord
+    bots. This repository gathers a wide range of high-quality bots making it easy
+    for you to find the perfect solution for any Discord-related development or server
+    need.'
+  pushed_at: '2025-04-19T21:56:14+00:00'
+  archived: false
+  badges:
+    star_count: https://img.shields.io/github/stars/discord-united/awesome-discord?style=flat-square
+    last_commit: https://img.shields.io/github/last-commit/discord-united/awesome-discord?style=flat-square
+    top_language: https://img.shields.io/github/languages/top/discord-united/awesome-discord?style=flat-square
+    license: https://img.shields.io/github/license/discord-united/awesome-discord?style=flat-square
+  category: Example
