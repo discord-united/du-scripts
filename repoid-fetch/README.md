@@ -23,7 +23,7 @@ GITHUB_TOKEN=your_personal_token
 Fetch by passing `--id`:
 
 ```bash
-python fetch-id.py --id 480281047
+python fetch-id.py --id 879513837
 ```
 
 ### Interactive prompt
@@ -32,7 +32,7 @@ If no `--id` is given, you are prompted:
 
 ```bash
 python fetch-id.py
-Enter GitHub repository ID: 480281047
+Enter GitHub repository ID: 879513837
 ```
 
 ## Output
