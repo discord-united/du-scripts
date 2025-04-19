@@ -25,6 +25,12 @@ from github import Github, Auth, GithubException
 
 def main():
     load_dotenv()
+    token = os.getenv("GITHUB_TOKEN", "").strip()
+    if token == "ghp_example_token" or token == "":
+        print("\n-----------------------------------------")
+        print("No GitHub token could be found, aborting.")
+        print("-----------------------------------------\n")
+        sys.exit()
 
     p = argparse.ArgumentParser(description="Fetch GitHub repo metadata by ID")
     p.add_argument("--id", "-i", type=int, help="GitHub repository numeric ID")
@@ -39,7 +45,7 @@ def main():
             sys.exit(1)
         repo_id = int(val)
 
-    token = os.getenv("GITHUB_TOKEN", "").strip()
+
     auth = Auth.Token(token) if token else None
     gh = Github(auth=auth) if auth else Github()
 

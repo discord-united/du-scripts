@@ -207,6 +207,12 @@ def load_yml(path: str) -> list[dict]:
 
 def main():
     load_dotenv()
+
+    if os.getenv("GITHUB_TOKEN") == "ghp_example_token" or os.getenv("GITHUB_TOKEN") == "":
+        print("\n-----------------------------------------")
+        print("No GitHub token could be found, aborting.")
+        print("-----------------------------------------\n")
+        sys.exit()
     p = argparse.ArgumentParser(prog="readme-generator.py")
     sub = p.add_subparsers(dest="cmd")
 
@@ -215,7 +221,7 @@ def main():
     f.add_argument("--no-api", action="store_true")
     f.add_argument("-v", "--verbose", action="store_true")
 
-    m = sub.add_parser("render", help="Render VALID.md, inactive.md & ARCHIVED.md from YAML")
+    m = sub.add_parser("render", help="Render VALID.md, INACTIVE.md & ARCHIVED.md from YAML")
     m.add_argument("--no-star", action="store_true", help="Omit star column")
 
     args = p.parse_args(sys.argv[1:] or ["fetch", "--txt", "repos.txt"])
