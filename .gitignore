@@ -128,6 +128,9 @@ ENV/
 env.bak/
 venv.bak/
 
+readme-generator/data/
+readme-generator/readme/
+
 # Spyder project settings
 .spyderproject
 .spyproject

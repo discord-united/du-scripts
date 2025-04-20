@@ -1,1 +1,12 @@
 https://github.com/discord-united/awesome-discord
+https://github.com/shitcorp/awesome-discord-bot-tools
+https://github.com/kzndotsh/awesome-discordpy
+https://github.com/alfg/awesome-discord
+https://github.com/DTinker/discord-resources
+https://github.com/apacheli/discord-api-libs
+https://github.com/ljosberinn/awesome-dev-discord
+https://github.com/jacc/awesome-discord
+https://github.com/mhxion/awesome-discord-communities
+https://github.com/NoPlagiarism/awesome-discord-activities
+https://github.com/ProjectDiscord/awesome-discord
+https://github.com/japandotorg/awesome-discord

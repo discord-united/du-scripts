@@ -14,4 +14,82 @@ repositories:
     last_commit: https://img.shields.io/github/last-commit/discord-united/awesome-discord?style=flat-square
     top_language: https://img.shields.io/github/languages/top/discord-united/awesome-discord?style=flat-square
     license: https://img.shields.io/github/license/discord-united/awesome-discord?style=flat-square
-  category: Example
+  category: list
+- name: Awesome-Discord-Bot-Tools
+  id: 600964653
+  author: shitcorp
+  source: https://github.com/shitcorp/Awesome-Discord-Bot-Tools
+  description: A curated collection of tools for developers working on Discord bots
+  pushed_at: '2024-12-22T01:43:16+00:00'
+  archived: false
+  badges:
+    star_count: https://img.shields.io/github/stars/shitcorp/awesome-discord-bot-tools?style=flat-square
+    last_commit: https://img.shields.io/github/last-commit/shitcorp/awesome-discord-bot-tools?style=flat-square
+    top_language: https://img.shields.io/github/languages/top/shitcorp/awesome-discord-bot-tools?style=flat-square
+    license: https://img.shields.io/github/license/shitcorp/awesome-discord-bot-tools?style=flat-square
+  category: list
+- name: awesome-discordpy
+  id: 828826043
+  author: kzndotsh
+  source: https://github.com/kzndotsh/awesome-discordpy
+  description: An Awesome list for all things Discord.py
+  pushed_at: '2025-04-18T18:04:03+00:00'
+  archived: false
+  badges:
+    star_count: https://img.shields.io/github/stars/kzndotsh/awesome-discordpy?style=flat-square
+    last_commit: https://img.shields.io/github/last-commit/kzndotsh/awesome-discordpy?style=flat-square
+    top_language: https://img.shields.io/github/languages/top/kzndotsh/awesome-discordpy?style=flat-square
+    license: https://img.shields.io/github/license/kzndotsh/awesome-discordpy?style=flat-square
+  category: list
+- name: discord-api-libs
+  id: 291793513
+  author: apacheli
+  source: https://github.com/apacheli/discord-api-libs
+  description: List of open-source Discord API Libraries
+  pushed_at: '2025-04-19T01:11:15+00:00'
+  archived: false
+  badges:
+    star_count: https://img.shields.io/github/stars/apacheli/discord-api-libs?style=flat-square
+    last_commit: https://img.shields.io/github/last-commit/apacheli/discord-api-libs?style=flat-square
+    top_language: https://img.shields.io/github/languages/top/apacheli/discord-api-libs?style=flat-square
+    license: https://img.shields.io/github/license/apacheli/discord-api-libs?style=flat-square
+  category: list
+- name: awesome-discord
+  id: 108609874
+  author: jacc
+  source: https://github.com/jacc/awesome-discord
+  description: "\U0001F579 A curated list of awesome things on Discord."
+  pushed_at: '2024-08-17T22:51:07+00:00'
+  archived: false
+  badges:
+    star_count: https://img.shields.io/github/stars/jacc/awesome-discord?style=flat-square
+    last_commit: https://img.shields.io/github/last-commit/jacc/awesome-discord?style=flat-square
+    top_language: https://img.shields.io/github/languages/top/jacc/awesome-discord?style=flat-square
+    license: https://img.shields.io/github/license/jacc/awesome-discord?style=flat-square
+  category: list
+- name: awesome-discord-communities
+  id: 203677928
+  author: mhxion
+  source: https://github.com/mhxion/awesome-discord-communities
+  description: A curated list of awesome Discord communities for programmers
+  pushed_at: '2024-08-08T17:05:23+00:00'
+  archived: false
+  badges:
+    star_count: https://img.shields.io/github/stars/mhxion/awesome-discord-communities?style=flat-square
+    last_commit: https://img.shields.io/github/last-commit/mhxion/awesome-discord-communities?style=flat-square
+    top_language: https://img.shields.io/github/languages/top/mhxion/awesome-discord-communities?style=flat-square
+    license: https://img.shields.io/github/license/mhxion/awesome-discord-communities?style=flat-square
+  category: list
+- name: awesome-discord-activities
+  id: 519174398
+  author: NoPlagiarism
+  source: https://github.com/NoPlagiarism/awesome-discord-activities
+  description: List of external Discord RPC
+  pushed_at: '2024-12-02T17:53:55+00:00'
+  archived: false
+  badges:
+    star_count: https://img.shields.io/github/stars/NoPlagiarism/awesome-discord-activities?style=flat-square
+    last_commit: https://img.shields.io/github/last-commit/NoPlagiarism/awesome-discord-activities?style=flat-square
+    top_language: https://img.shields.io/github/languages/top/NoPlagiarism/awesome-discord-activities?style=flat-square
+    license: https://img.shields.io/github/license/NoPlagiarism/awesome-discord-activities?style=flat-square
+  category: list
